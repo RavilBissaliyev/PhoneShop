@@ -12,3 +12,4 @@ C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopSharedLibrary\obj\Deb
 C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopSharedLibrary\bin\Debug\net8.0\PhoneShopSharedLibrary.runtimeconfig.json
 C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\PhoneShopSharedLibrary.csproj.AssemblyReference.cache
 C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\PhoneShopSharedLibrary.genruntimeconfig.cache
+C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\PhoneShopSharedLibrary.sourcelink.json

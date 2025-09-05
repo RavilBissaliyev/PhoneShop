@@ -1,0 +1,32 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            @if (ProductList!.Count > 0)
+            {
+                <div class="control-container text-dark">
+                    
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+
+
+@code {
+    List<Product>? ProductList = new();
+
+    private async Task RetrieveFeaturedProducts()
+    {
+        ProductList?.Clear();
+        bool featured = true;
+        var results = await ClientService.GetAllProducts(true);
+        if (results is null) return;
+
+        var listProducts = results.ToList();
+        foreach (var i in listProducts)
+        {
+            ProductList!.Add(i);    
+        }
+    }
+}

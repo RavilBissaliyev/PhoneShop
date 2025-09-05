@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PhoneShopClient",
   "resources": {
-    "hash": "sha256-nAomQ57tkR/+tWADcoqrFLz5aG427MfIwkzJelNGHD8=",
+    "hash": "sha256-zWibsERxpEYZH7t/Te848SM21mdC1nlUsea0waROiLc=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.njv4ivy1p0.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -236,12 +236,12 @@
       "mscorlib.wasm": "sha256-Gz8PyW2/fwihe5ul81OwmRUrU71r+KtbyRw6xlOGD+Q=",
       "netstandard.wasm": "sha256-jMTqIQzoDS810lyhZpMO5eEC36EzntXqSVn+2qwkOMQ=",
       "System.Private.CoreLib.wasm": "sha256-NFj5WE5VLP2LptZIRJCUIc1AMk06FmxpsSILfPISwAw=",
-      "PhoneShopSharedLibrary.wasm": "sha256-smcLGW3FeOSN4wReEz8iXE30oszVMI+F00a5qekF1KI=",
-      "PhoneShopClient.wasm": "sha256-W8bnPnGhJEm6HVy3RvgmG99ntmmio3C0iGY9J1qSNcw="
+      "PhoneShopSharedLibrary.wasm": "sha256-uA3ZUQ9aIufAYeKo3x3H20OqZcv4+sbz4DobCvT9L40=",
+      "PhoneShopClient.wasm": "sha256-WfrbmQEx3kQJXsDzS+h0en8jt/5/lNWgmQ3cVoiea8I="
     },
     "pdb": {
-      "PhoneShopSharedLibrary.pdb": "sha256-5WKsjQljJfoXLH0DPVdnwil/01hjEWWIuD4tZp/P1Jk=",
-      "PhoneShopClient.pdb": "sha256-7j3Ex4Gl12xUB/6KZGVc5jMApI0K+nBgsczbMXu2NOI="
+      "PhoneShopSharedLibrary.pdb": "sha256-/T/CRgXospp7Q6rmIw3qUMlaTEyt2oGQs/5MwehcTyw=",
+      "PhoneShopClient.pdb": "sha256-QvynjgrJM5kw1nmV6hfit03obYt0mPoxYzuRPaqbkVc="
     }
   },
   "cacheBootResources": true,

@@ -30,8 +30,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkT3JVcGRhdGVQcm9kdWN0Q29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Ravil/Desktop/projects/PhoneShopSolution/PhoneShopClient/Pages/BusyButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnVzeUJ1dHRvbkNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Ravil/Desktop/projects/PhoneShopSolution/PhoneShopClient/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ravil/Desktop/projects/PhoneShopSolution/PhoneShopClient/Pages/MessageDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVzc2FnZURpYWxvZy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Ravil/Desktop/projects/PhoneShopSolution/PhoneShopClient/_Imports.razor]

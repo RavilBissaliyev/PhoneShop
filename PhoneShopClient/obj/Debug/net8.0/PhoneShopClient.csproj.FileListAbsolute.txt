@@ -1178,3 +1178,5 @@ C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopClient\obj\Debug\net8
 C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopClient\obj\Debug\net8.0\compressed\titiw99p21.gz
 C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopClient\obj\Debug\net8.0\compressed\yix08kc4kh.gz
 C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopClient\obj\Debug\net8.0\compressed\i939ymn3lx.gz
+C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopClient\bin\Debug\net8.0\libman.json
+C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopClient\obj\Debug\net8.0\PhoneShopClient.sourcelink.json
