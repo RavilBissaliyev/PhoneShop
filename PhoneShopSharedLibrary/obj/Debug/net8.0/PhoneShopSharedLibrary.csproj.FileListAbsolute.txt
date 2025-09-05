@@ -1,0 +1,14 @@
+C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopSharedLibrary\bin\Debug\net8.0\PhoneShopSharedLibrary.deps.json
+C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopSharedLibrary\bin\Debug\net8.0\PhoneShopSharedLibrary.dll
+C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopSharedLibrary\bin\Debug\net8.0\PhoneShopSharedLibrary.pdb
+C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\PhoneShopSharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\PhoneShopSharedLibrary.AssemblyInfoInputs.cache
+C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\PhoneShopSharedLibrary.AssemblyInfo.cs
+C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\PhoneShopSharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\PhoneShopSharedLibrary.dll
+C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\refint\PhoneShopSharedLibrary.dll
+C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\PhoneShopSharedLibrary.pdb
+C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\ref\PhoneShopSharedLibrary.dll
+C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopSharedLibrary\bin\Debug\net8.0\PhoneShopSharedLibrary.runtimeconfig.json
+C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\PhoneShopSharedLibrary.csproj.AssemblyReference.cache
+C:\Users\Ravil\Desktop\projects\PhoneShopSolution\PhoneShopSharedLibrary\obj\Debug\net8.0\PhoneShopSharedLibrary.genruntimeconfig.cache

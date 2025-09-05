@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ravil\\Desktop\\projects\\PhoneShopSolution\\PhoneShopClient\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Ravil\\Desktop\\projects\\PhoneShopSolution\\PhoneShopClient\\obj\\Debug\\net8.0\\compressed\\oc6f2gmgy9.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Ravil\\Desktop\\projects\\PhoneShopSolution\\PhoneShopClient\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PhoneShopClient.styles.css",
+      "PackagePath": "staticwebassets\\PhoneShopClient.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Ravil\\Desktop\\projects\\PhoneShopSolution\\PhoneShopClient\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Ravil\\Desktop\\projects\\PhoneShopSolution\\PhoneShopClient\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ravil\\Desktop\\projects\\PhoneShopSolution\\PhoneShopClient\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ravil\\Desktop\\projects\\PhoneShopSolution\\PhoneShopClient\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Ravil\\Desktop\\projects\\PhoneShopSolution\\PhoneShopClient\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Ravil\\Desktop\\projects\\PhoneShopSolution\\PhoneShopClient\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PhoneShopClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PhoneShopClient.props",
+      "PackagePath": "build\\PhoneShopClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PhoneShopClient.props",
+      "PackagePath": "buildMultiTargeting\\PhoneShopClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PhoneShopClient.props",
+      "PackagePath": "buildTransitive\\PhoneShopClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
